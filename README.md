@@ -10,6 +10,7 @@ Welcome to the session! This guide will help you understand the process of **for
 - How to clone and work locally
 - How to create a Pull Request
 - Best practices for contributing to open source
+- Guide To Version Control
 
 ---
 
